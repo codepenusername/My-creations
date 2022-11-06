@@ -1,0 +1,49 @@
+/* Class CSS */
+
+.line {
+  height: 6px;
+  background-color: #000;
+  width: 70px;
+  margin: 8px auto;
+}
+
+/* ID CSS */
+
+#wepp {
+  background-color: rgb(32, 121, 198);
+}
+
+#game {
+  background-color: lightcoral;
+}
+
+#chatbot {
+  background-color: rgb(22, 224, 170);
+}
+
+#nap {
+  background-color: antiquewhite;
+}
+
+#cpn {
+  background-color: aqua;
+}
+
+#gge {
+  background-color: aquamarine;
+}
+
+#hubrepo {
+  background-color: rgba(63, 142, 20, 0.715);
+}
+
+/* Tag CSS */
+body {
+  text-align: center;
+}
+
+h1 {
+  font-size: 40px;
+  font-family: sans-serif;
+  font-weight: 300;
+}
